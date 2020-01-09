@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["notFound"],{9703:function(t,n,e){"use strict";e.r(n);var o=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"to_center text_center"},[t._v(" Current page not found :( "),e("p",[t._v(" Go to "),e("router-link",{attrs:{to:"/"}},[t._v("home")])],1)])},r=[],u={name:"NotFound"},a=u,s=e("2877"),c=Object(s["a"])(a,o,r,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=notFound.2fdd6aa0.js.map
